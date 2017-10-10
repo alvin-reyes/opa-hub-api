@@ -26,8 +26,8 @@ Add this dependency to your project's POM:
 
 ```xml
 <dependency>
-  	<groupId>ora.opa.hub</groupId>
-  	<artifactId>opa-hub-java-client</artifactId>
+    <groupId>ora.opa.hub</groupId>
+    <artifactId>opa-hub-java-client</artifactId>
     <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
